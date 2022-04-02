@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Default database",
+    "id": "default",
+    "dbfile": "default.imgdb",
+    "paintings":
+            [
+              {
+                "title": "The Scream",
+                "id": "scream",
+                "artist": "Edvard Munch",
+                "year": 1893,
+                "description": "The Scream is a painting by Norwegian painter Edvard Munch. It is in the style of the Expressionist movement",
+                "photo": "scream.jpg",
+                "medium": "oil on canvas",
+                "cardinality": 1
+              },
+              {
+                "title": "The Last Supper",
+                "id": "last_supper",
+                "artist": "Leonardo da Vinci",
+                "year": 1519,
+                "description": "The Last Supper is a painting by Italian Renaissance artist Leonardo da Vinci. It is in the style of the impressionist movement",
+                "photo": "last_supper.jpg",
+                "medium": "oil on canvas",
+                "cardinality": 0
+              }
+            ]
+  }
+]
